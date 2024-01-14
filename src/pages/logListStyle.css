@@ -1,0 +1,30 @@
+.logsBody {
+    padding: 20px;
+    /* background-color: #ffffff; */ 
+}
+
+.logContainer {
+    margin-bottom: 10px;
+}
+
+.dateContainer {
+    background-color: #a6e4e7;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 150px;
+    padding-left: 10px;
+}
+
+.log2 {
+    display: flex;
+    background-color: #f9f9f9;
+    width: 50%;
+    border-radius: 10px;
+    border-start-start-radius: 0;
+}
+
+.logImg {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
